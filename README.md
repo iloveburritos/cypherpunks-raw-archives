@@ -1,5 +1,4 @@
 # cypherpunks-raw-archives
-  # Cypherpunks Raw Archives
 
   Original raw .txt files from the Cypherpunks Mailing List (1992-1996).
 
